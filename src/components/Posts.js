@@ -1,7 +1,6 @@
 import Post from "./Post";
 
 export default function Posts() {
-
     const posts = [
         {
             imagemPerfil: <img src="./assets/img/meowed.png" />,
